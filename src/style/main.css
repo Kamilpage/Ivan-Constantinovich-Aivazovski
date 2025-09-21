@@ -1,0 +1,17 @@
+@import "normalise.css";
+@import "./hero.css";
+@import "./header.css";
+@import "./about.css";
+
+@import "./history.css";
+@import "./portfolio.css";
+@import "contact.css";
+
+img{
+    transition: all 0.3s ease-in-out;
+}
+
+img:hover{
+    cursor: pointer;
+transform: scale(1.01);
+}

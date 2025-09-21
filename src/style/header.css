@@ -1,0 +1,16 @@
+.container {
+    max-width: 950px;
+    width: 100%;
+    margin: 0 auto;
+}
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 0 32px 0;
+}
+
+
+.nav-links a:hover{
+    text-decoration: underline;
+}

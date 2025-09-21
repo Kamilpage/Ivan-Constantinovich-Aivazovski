@@ -1,0 +1,22 @@
+.hero__inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.hero__inner h1{
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    padding: 46px 0 22px;
+}
+
+.hero__inner h2{
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    padding-bottom: 35px;
+}
+.hero__inner img {
+    margin-bottom: 70px;
+}

@@ -1,0 +1,21 @@
+
+.portfolio{
+    background-color: #F6F6F6;
+    padding-bottom: 107px;
+}
+
+.portfolio-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 39px;
+}
+
+.portfolio-inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 95px;
+}
